@@ -156,8 +156,6 @@
         jQuery(this).find('.count').html('<span>' + percent + '</span>');
       });
     }); 
-
-  
   });
   
     
